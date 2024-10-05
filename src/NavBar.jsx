@@ -14,7 +14,7 @@ export default function NavBar(){
             </Link>
         </div>
         <div>
-            <a href="https://ayushxvx.github.io/Dark-portfolio" target="_blank"  className="hover:text-white transition-all">
+            <a href="https://ayushxvxportfolio.netlify.app/" target="_blank"  className="hover:text-white transition-all">
             Profile
             </a>
         </div>
